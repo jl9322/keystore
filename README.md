@@ -20,13 +20,13 @@ This extension has just two methods. One to encrypt user data and one to decrypt
 
 The encrypt method takes plain text and outputs encrypted text. This encrypted text can be stored like any other text such as saving it in a TinyDB.
 
-![](/repository/assets/component_method_encrypt.png?raw=true)
+![](/assets/component_method_encrypt.png?raw=true)
 
 ### Decrypt
 
 Decrypt method takes previously encrypted text and outputs the original unencrypted text.
 
-![](/repository/assets/component_method_decrypt.png?raw=true)
+![](/assets/component_method_decrypt.png?raw=true)
 
 ## Additional Information
 
@@ -65,18 +65,18 @@ Can you provide an example of how to encrypt and decrypt a dictionary?
 > **Sure.**
 >
 > #### Encrypt dictionary:
-> ![](/repository/assets/dictionary_encrypt.png?raw=true)
+> ![](/assets/dictionary_encrypt.png?raw=true)
 > (Dictionary is converted to encrypted text.)
 >
 > #### Decrypt dictionary:
-> ![](/repository/assets/dictionary_decrypt.png?raw=true)
+> ![](/assets/dictionary_decrypt.png?raw=true)
 >
 > However, it is probably better in most cases to just encrypt sensitive data.
 >
 > #### Encrypt value:
-> ![](/repository/assets/value_encrypt.png?raw=true)
+> ![](/assets/value_encrypt.png?raw=true)
 >
 > #### Decrypt value:
-> ![](/repository/assets/value_decrypt.png?raw=true)
+> ![](/assets/value_decrypt.png?raw=true)
 
 ## License
