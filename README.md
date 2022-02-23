@@ -80,3 +80,4 @@ Can you provide an example of how to encrypt and decrypt a dictionary?
 > ![](/assets/value_decrypt.png?raw=true)
 
 ## License
+MIT License
