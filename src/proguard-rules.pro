@@ -10,7 +10,7 @@
 -allowaccessmodification
 -mergeinterfacesaggressively
 
--repackageclasses 'com/jasonlwebb/keystore/repack'
+-repackageclasses 'com/jl9322/keystore/repack'
 -flattenpackagehierarchy
 -dontpreverify
 -dontwarn java.lang.invoke.StringConcatFactory
